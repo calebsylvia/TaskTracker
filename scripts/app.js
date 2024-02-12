@@ -25,13 +25,7 @@ addNewTask.addEventListener('click', () => {
     saveLocal(task);
 })
 
-const displayTasks = () => {
-    let tasks = getLocal();
 
-    tasks.map(taskAtHand => {
-        let 
-    })
-}
-
+// Couldnt get my local storage to work at all so i spent most of the class trying to figure it out leaving me with no time for the card creations
 
 
